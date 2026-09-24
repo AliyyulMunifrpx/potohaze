@@ -97,7 +97,7 @@ export default function Footer() {
           className="z-20 col-start-3 row-start-3 mx-auto flex aspect-square w-20 items-center justify-center rounded-full border border-white transition hover:border-none hover:bg-primary"
         >
           <Link
-            href="#contact"
+            href="#kontak"
             className="flex h-full w-full items-center justify-center font-sans text-white"
           >
             Booking

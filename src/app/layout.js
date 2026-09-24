@@ -153,7 +153,10 @@ export default function RootLayout({ children }) {
         <Navbar />
 
         {children}
-        <Footer></Footer>
+        <section id="footer">
+          {" "}
+          <Footer></Footer>
+        </section>
       </body>
     </html>
   );

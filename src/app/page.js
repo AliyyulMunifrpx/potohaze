@@ -27,7 +27,7 @@ export default function Home() {
       <section id="syarat-ketentuan">
         <TermsSection />{" "}
       </section>
-      <section id="">
+      <section id="cta">
         <CtaSection />{" "}
       </section>
       <section id="kontak">

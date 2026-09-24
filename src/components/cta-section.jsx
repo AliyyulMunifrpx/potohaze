@@ -86,7 +86,7 @@ export default function CtaSection() {
         className="group z-20 col-start-1 row-start-3 mx-auto flex aspect-square w-20 items-center justify-center rounded-full border border-black transition hover:border-none hover:bg-primary"
       >
         <Link
-          href="#contact"
+          href="#kontak"
           className="flex h-full w-full items-center justify-center font-sans"
         >
           Booking
